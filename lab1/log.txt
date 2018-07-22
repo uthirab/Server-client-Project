@@ -1,0 +1,3 @@
+[cood]: 0:00:42:string:first line[cood]: 0:00:02:Please Vote to store the String[cood]: 0:00:00:You have 50 seconds to Vote...
+[uthria]: 0:00:40:commit[rosa]: 0:00:34:commit[hosa]: 0:00:25:commit[cood]: 0:00:10:Globalcommit[cood]: 0:00:22:string:second line[cood]: 0:46:56:string: third line[cood]: 0:00:08:Please Vote to store the String[cood]: 0:00:00:You have 50 seconds to Vote...
+[hosa]: 0:47:35:commit[hosa]: 0:00:04:abort[cood]: 0:00:13:Globalabort[cood]: 0:01:02:string:opopo[hosa]: 0:01:04:commit[rosa]: 0:48:47:commit[uthria]: 0:48:51:commit[cood]: 0:00:06:Globalcommit[hduhs]: 0:00:01:State:Init[hjdhk]: 0:00:01:State:Init[sdfsdf]: 0:00:01:State:Init[hduhs]: 0:01:28:status
